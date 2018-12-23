@@ -1,0 +1,2 @@
+#define GAME_MANAGER  0x0
+#define GAME_RENDERER  0x0
